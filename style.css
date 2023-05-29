@@ -1,0 +1,43 @@
+.heading{
+    background-color: rgb(9, 255, 0);
+    color: white;
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+
+#start{
+    background-color:white;
+    color: red;
+    font-size: 18px;
+}
+
+#numberOfObjects{
+    background-color:white;
+    color: red;
+    font-size: 18px;
+}
+
+#status{
+    background-color: rgb(255, 255, 255);
+    color: rgb(47, 255, 0);
+    font-size: 18px;
+}
+
+.copyrightFooter{
+    bottom: 0px;
+    position: fixed;
+    background-color: red;
+    color: white;
+    width: 100%;
+    font-size: 23px;
+    text-align: center;
+    line-height: 2;
+}
+
+canvas{
+    border: 5px solid rgb(9, 255, 0);
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px red;
+}
